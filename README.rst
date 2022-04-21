@@ -1,7 +1,7 @@
 =======================================
 4DN-BINA-OME-QUAREP Microscopy Glossary
 =======================================
-This repository contains a Microscopy Gloasary developed in the context of `QUAlity and REProducibility for Instruments and Images in Light Microscopy (QUAREP-LiMi). <https://quarep.org/>`_
+This repository contains a Microscopy Glossary developed in the context of `QUAlity and REProducibility for Instruments and Images in Light Microscopy (QUAREP-LiMi). <https://quarep.org/>`_
 
 This Glossary is based on the `4DN-BINA-OME (NBO) Microscopy Metadata Specifications <https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs/tree/master/Model/stable%20version/v02-01>`_ which was recently published on a Nature Methos FOCUS issue on Reporting and Reproducibility in Microscopy.
 
