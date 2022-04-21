@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Microscopy Glossary'
+copyright = '2022, GCaterina Strambio De Castillia'
+author = 'Caterina Strambio De Castillia'
 
 release = '0.1'
 version = '0.1.0'
