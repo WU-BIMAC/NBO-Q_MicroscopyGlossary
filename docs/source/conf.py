@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Microscopy Glossary'
-copyright = '2022, GCaterina Strambio De Castillia'
+copyright = '2022, Caterina Strambio De Castillia'
 author = 'Caterina Strambio De Castillia'
 
 release = '0.1'
