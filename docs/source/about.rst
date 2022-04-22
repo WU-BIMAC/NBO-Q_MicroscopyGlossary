@@ -16,13 +16,11 @@ Features include:
 ****************
 Implementations:
 ****************
-Currently, three implementations of te glossar are available on Github.
-
-1. https://github.com/WU-BIMAC/NBO-Q_MicroscopyGlossary
-
+Currently, the glossary is available on Github at:
+https://github.com/WU-BIMAC/NBO-Q_MicroscopyGlossary
 
 
 .. tip::
 
-  Please Note - If you want to know more about this initiative please contact us at `Bioimaging North America <https://www.bioimagingnorthamerica.org/>`_ `Quality Control and Data Management Working Group <https://www.bioimagingnorthamerica.org/qc-dm-wg/>`_ and `QUAREP-LiMi <https://quarep.org/>`_ `Metadata Working Group <https://quarep.org/working-groups/wg-7-metadata>`_
+Please Note - If you want to know more about this initiative please contact us at `Bioimaging North America <https://www.bioimagingnorthamerica.org/>`_ `Quality Control and Data Management Working Group <https://www.bioimagingnorthamerica.org/qc-dm-wg/>`_ and `QUAREP-LiMi <https://quarep.org/>`_ `Metadata Working Group <https://quarep.org/working-groups/wg-7-metadata>`_
   
