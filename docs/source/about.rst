@@ -19,6 +19,7 @@ Features include:
 Implementations:
 ****************
 Currently, the glossary is available on Github at:
+
 * https://github.com/WU-BIMAC/NBO-Q_MicroscopyGlossary
 
 .. tip::
