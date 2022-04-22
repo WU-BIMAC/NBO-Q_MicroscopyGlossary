@@ -5,8 +5,8 @@ The NBO-Q Microscopy Glossary organized in sections, that are organized on the b
 All sections that have been developed so far or are in progress are listed below:
 
 .. list-table::
-   :widths: 10 10 70 10
-   :header-rows: 1
+  :widths: 10 10 70 10
+  :header-rows: 1
 
   * - Section Number
     - Section Name
