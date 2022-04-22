@@ -12,7 +12,11 @@ Manufacturer Specifications glossary
 
 Summary
 -------
-This table collects terms that describe the terms used by Manufacturers and branding companies to describe and uniquely identify microscope hardware components. Examples include the name of the Brand and of the Manufactuer, the Product and Model names, and the Product, Catalog and Serial numbers.
+This table collects terms used by Manufacturers and branding companies to describe and uniquely identify microscope hardware components. Examples include the name of the Brand and of the Manufactuer, the Product and Model names, and the Product, Catalog and Serial numbers.
+
+.. note::
+
+   Please note: the terms that are described in this table are shared by all hardware components in the glossary.
 
 Table
 -----
