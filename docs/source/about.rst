@@ -10,15 +10,16 @@ The NBO Microscopy Metadata Specifications are a suite of scalable extensions of
 *****************
 Features include:
 *****************
-* Community driven
+* Community driven.
 * Centered on Rigor and Reproducibility
-* Centered on Usability and Education
+* Maximize Educational value 
+* Focus on Usability by all biomedical researchers regardless of imaging expertise
 
 ****************
 Implementations:
 ****************
 Currently, the glossary is available on Github at:
-https://github.com/WU-BIMAC/NBO-Q_MicroscopyGlossary
+* https://github.com/WU-BIMAC/NBO-Q_MicroscopyGlossary
 
 .. tip::
 
