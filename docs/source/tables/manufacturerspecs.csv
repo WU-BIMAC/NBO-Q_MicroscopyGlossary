@@ -1,1 +1,12 @@
-
+Name,Description,Required?,Tier,M&M,Data type,Allowed values
+Brand,"When appropriate, this field refers to the company, who is selling this hardware component in the case in which the Manufacturer is different from the vendor. The use of this field is often useful when an item is rebranded as part of the marketing process.",Optional,1,Y,string,
+Manufacturer,"This field refers to the company, research group or individual who built or manufactured this hardware component.",Optional,1,Y,string,
+Original Element Manufacturer,,Optional,3,,string,
+Model,This field refers to the Model name or any other designation the Manufacturer uses for this component.,Optional,1,Y,string,
+Product Name,,Optional,1,,string,
+Catalog Number,"This field records the Catalog, Part or Serial Number used by the Manufacturer to uniquely identify this component.",Optional,1,Y,string,
+Product Number,"When applicable, this field records the Product Number used to uniquely identify this component by the branding company, when this is different from the Manufacturer. The use of this field might be useful when an item is rebranded as part of the marketing process.",Optional,1,,string,
+SerialNumber,,Optional,1,,string,
+Firmware,,Optional,3,,string,
+LotNumber,,Optional,3,,string,
+SpecsFile,,Optional,3,,string,
