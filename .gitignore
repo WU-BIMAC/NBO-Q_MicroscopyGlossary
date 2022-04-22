@@ -153,4 +153,11 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# misc
+
+.DS_Store
+docs/.DS_Store
+docs/source/.DS_Store
+*DS_Store
+
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
