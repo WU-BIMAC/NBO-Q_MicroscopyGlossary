@@ -5,14 +5,18 @@ The NBO-Q Microscopy Glossary organized in sections, that are organized on the b
 All sections that have been developed so far or are in progress are listed below:
 
 .. list-table::
-  :header-rows: 1
+   :widths: 10 10 70 10
+   :header-rows: 1
 
-  * - Number
-    - Name
+  * - Section Number
+    - Section Name
+    - Description
     - Type
   * - 1
     - :ref:`manufacturerspecs`
+    - This section contains terms used by Manufacturers and branding companies to describe and uniquely identify microscope hardware components.
     - extension base
   * - 2
     - :ref:`instrument`
+    - This section collects terms that describe the general characteristics of a microscope Instrument.
     - element
