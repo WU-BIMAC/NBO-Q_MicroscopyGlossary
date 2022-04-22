@@ -4,6 +4,7 @@ Manufacturer Specifications glossary
 ====================================
 
 Type: extension base
+Tier: 1
 
 Summary
 -------
