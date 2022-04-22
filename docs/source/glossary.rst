@@ -1,5 +1,5 @@
-Tables
-======
+Glossary
+========
 
 .. list-table::
   :header-rows: 1
