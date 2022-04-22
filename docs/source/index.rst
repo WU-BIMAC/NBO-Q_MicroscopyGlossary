@@ -13,4 +13,5 @@ Contents
     :maxdepth: 1
 
    about
+   tables
    help
