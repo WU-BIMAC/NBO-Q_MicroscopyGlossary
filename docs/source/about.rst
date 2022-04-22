@@ -1,7 +1,7 @@
 ======================================
 What is the NBO-Q Microscopy Glossary?
 ======================================
-This repository contains a Microscopy Glossary developed in the context of `QUAlity and REProducibility for Instruments and Images in Light Microscopy (QUAREP-LiMi). <https://quarep.org/>`_ and in close collaboration with the `4D Nucleome (4DN) initiative <https://www.4dnucleome.org/>`_ , the `Bioimaging North America (BINA) <https://www.bioimagingnorthamerica.org/>`_ `Quality Control and Data Management Working Group <https://www.bioimagingnorthamerica.org/qc-dm-wg/>`_, the `Open Microscopy Environment (OME) <https://www.openmicroscopy.org>`_ initiative and other national and international bioimaging initiatives.
+This repository contains a Microscopy Glossary developed in the context of `QUAlity and REProducibility for Instruments and Images in Light Microscopy (QUAREP-LiMi). <https://quarep.org/>`_ and in close collaboration with the `4D Nucleome (4DN) initiative <https://www.4dnucleome.org/>`_ , the `Quality Control and Data Management Working Group <https://www.bioimagingnorthamerica.org/qc-dm-wg/>`_ of `Bioimaging North America (BINA) <https://www.bioimagingnorthamerica.org/>`_, the `Open Microscopy Environment (OME) <https://www.openmicroscopy.org>`_ initiative and other national and international bioimaging initiatives.
 
 This glossary is built to extend and augment the `4DN-BINA-OME (NBO) Microscopy Metadata Specifications <https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs/tree/master/Model/stable%20version/v02-01>`_ which were recently published on a Nature Methods FOCUS issue on `Reporting and Reproducibility in Microscopy.<https://www.nature.com/collections/djiciihhjh>`_
 
