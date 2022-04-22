@@ -1,7 +1,7 @@
 .. _manufacturerspecs:
 
-Manufacturer Specifications glossary
-====================================
+Manufacturer Specifications
+===========================
 
 * Type: extension base
 * Tier: 1

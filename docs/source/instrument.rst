@@ -1,7 +1,7 @@
 .. _instrument:
 
-Instrument glossary
-===================
+Instrument
+==========
 
 * Type: extension base
 * Tier: 1
