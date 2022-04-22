@@ -1,16 +1,11 @@
 ======================================
 What is the NBO-Q Microscopy Glossary?
 ======================================
-This repository contains a Microscopy Gloasary developed in the context of `QUAlity and REProducibility for Instruments and Images in Light Microscopy (QUAREP-LiMi). <https://quarep.org/>`_
+This repository contains a Microscopy Glossary developed in the context of `QUAlity and REProducibility for Instruments and Images in Light Microscopy (QUAREP-LiMi). <https://quarep.org/>`_ and in close collaboration with the `4D Nucleome (4DN) initiative <https://www.4dnucleome.org/>`_ , the `Bioimaging North America (BINA) <https://www.bioimagingnorthamerica.org/>`_ `Quality Control and Data Management Working Group <https://www.bioimagingnorthamerica.org/qc-dm-wg/>`_, the `Open Microscopy Environment (OME) <https://www.openmicroscopy.org>`_ initiative and other national and international bioimaging initiatives.
 
-This Glossary is based on the `4DN-BINA-OME (NBO) Microscopy Metadata Specifications <https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs/tree/master/Model/stable%20version/v02-01>`_ which was recently published on a Nature Methos FOCUS issue on Reporting and Reproducibility in Microscopy.
+This glossary is built to extend and augment the `4DN-BINA-OME (NBO) Microscopy Metadata Specifications <https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs/tree/master/Model/stable%20version/v02-01>`_ which were recently published on a Nature Methods FOCUS issue on `Reporting and Reproducibility in Microscopy.<https://www.nature.com/collections/djiciihhjh>`_
 
-The NBO Microscopy Metadata Specifications are a suite of scalable an extensions of the `OME data model <https://docs.openmicroscopy.org/ome-model/5.6.1/developers/model-overview.html>`_ thare being continually developed in the context of the `4D Nucleome (4DN) initiative <https://www.4dnucleome.org/>`_ and the `Bioimaging North America <https://www.bioimagingna.org>`_ `Quality Control and Data Management Working Group <https://www.bioimagingna.org/qc-dm-wg>`_ and `QUAREP-LiMi <https://quarep.org/>`_
-
-The NBO-Q Microscopy Glossary collects shared definitions for Microscopy Hardware, Imaging Acquisition Settings, and Quality Control merics that are developed in the context of QUAREP-LiMi and in close collaboration with the `4D Nucleome (4DN) initiative <https://www.4dnucleome.org/>`_ , the `Bioimaging North America <https://www.bioimagingnorthamerica.org/>`_ `Quality Control and Data Management Working Group <https://www.bioimagingnorthamerica.org/qc-dm-wg/>`_, the Open Microscopy Environment initiative and other national and international bioimaging initiative. 
-
-This Microscopy Gloasary is built to extend and augment the recetnly published `4DN-BINA-OME (NBO) Microscopy Metadata Specifications <https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs/tree/master/Model/stable%20version/v02-01>`_ and the `OME data model <https://docs.openmicroscopy.org/ome-model/5.6.1/developers/model-overview.html>`_.
-
+The NBO Microscopy Metadata Specifications are a suite of scalable extensions of the `OME data model <https://docs.openmicroscopy.org/ome-model/5.6.1/developers/model-overview.html>`_ thare being continually developed in the context of `QUAREP-LiMi <https://quarep.org/>`_ by incorporating feedback from different stakeholders in the community, including microscope manufacturers, custodians and users.
 
 *****************
 Features include:
