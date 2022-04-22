@@ -12,7 +12,7 @@ Instrument glossary
 
 Summary
 -------
-This table collects terms that describe the general characteristics of the Instrument. 
+This table collects terms that describe the general characteristics of a microscope Instrument. 
 
 Table
 -----
