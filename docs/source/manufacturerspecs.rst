@@ -3,9 +3,12 @@
 Manufacturer Specifications glossary
 ====================================
 
-Type: extension base
+* Type: extension base
+* Tier: 1
 
-Tier: 1
+.. note::
+
+   This project is under active development. Every one is invited to contribute by posting questions, comments, suggestions to the `issue page <https://github.com/WU-BIMAC/NBO-Q_MicroscopyGlossary/issues>`_ for this repository.
 
 Summary
 -------
