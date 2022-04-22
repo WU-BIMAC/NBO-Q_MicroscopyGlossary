@@ -1,4 +1,4 @@
-Name,Alternative Name,_______Description_______,Requirement / Cardinality,Tier,M&M,Data type,Allowed values
+Name,Alternative Name,_________________Description_________________,Requirement / Cardinality,Tier,M&M,Data type,Allowed values
 Brand,,"When appropriate, this field refers to the company (also referred to as Value-Added Reseller - VAR), who is selling this hardware component in the case in which the Manufacturer is different from the vendor. The use of this field is often useful when an item is rebranded as part of the marketing process.",Optional,1,Y,string,
 Manufacturer,,"This field refers to the company, research group or individual who built or manufactured this hardware component.",Optional,1,Y,string,
 Original Element Manufacturer,,"When applicable, this field refers to the company that originally produced this hardware component, in case it is used by another company, which then sells the finished item to users.",Optional,3,,string,
