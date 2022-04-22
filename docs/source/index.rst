@@ -17,7 +17,6 @@ Contents
 --------
 .. toctree::
     :caption: 4DN-BINA-OME Microscopy Glossary
-    :hidden:
     :maxdepth: 1
 
    about
