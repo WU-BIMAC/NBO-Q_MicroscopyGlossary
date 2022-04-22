@@ -19,8 +19,7 @@ Implementations:
 Currently, the glossary is available on Github at:
 https://github.com/WU-BIMAC/NBO-Q_MicroscopyGlossary
 
-
 .. tip::
 
-Please Note - If you want to know more about this initiative please contact us at the `Quality Control and Data Management Working Group <https://www.bioimagingnorthamerica.org/qc-dm-wg/>`_ of `Bioimaging North America <https://www.bioimagingnorthamerica.org/>`_ and the  `Metadata Working Group <https://quarep.org/working-groups/wg-7-metadata>`_ of `QUAREP-LiMi <https://quarep.org/>`_.
+   Please Note - If you want to know more about this initiative please contact us at the `Quality Control and Data Management Working Group    <https://www.bioimagingnorthamerica.org/qc-dm-wg/>`_ of `Bioimaging North America <https://www.bioimagingnorthamerica.org/>`_ and the  `Metadata Working Group <https://quarep.org/working-groups/wg-7-metadata>`_ of `QUAREP-LiMi <https://quarep.org/>`_.
   
