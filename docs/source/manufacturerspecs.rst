@@ -16,5 +16,4 @@ Table
 
 .. csv-table::
   :file: tables/manufacturerspecs.csv
-  :widths: 10, 50, 10, 5, 5, 10, 10
   :header-rows: 1
