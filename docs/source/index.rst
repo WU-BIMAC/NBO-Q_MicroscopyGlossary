@@ -15,9 +15,6 @@ The NBO Microscopy Metadata Specifications are a suite of scalable an extensions
 
 Contents
 --------
-
-.. include:: about.rst
-
 .. toctree::
     :caption: 4DN-BINA-OME Microscopy Glossary
     :hidden:
