@@ -63,7 +63,7 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 # can add a logo on sidebar with:
-# html_logo = docs/source/img/QUAREP_BINA.png
+html_logo = docs/source/img/QUAREP_BINA.png
 
 # Read the Docs configuration.
 # See: https://sphinx-rtd-theme.readthedocs.io/en/stable/configuring.html
