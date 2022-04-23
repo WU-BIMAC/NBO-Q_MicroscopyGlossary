@@ -8,19 +8,18 @@ This glossary is built to extend and augment the `4DN-BINA-OME (NBO) Microscopy 
 
 The NBO Microscopy Metadata Specifications are a suite of scalable extensions of the `OME data model <https://docs.openmicroscopy.org/ome-model/5.6.1/developers/model-overview.html>`_ thare being continually developed in the context of `QUAREP-LiMi <https://quarep.org/>`_ by incorporating feedback from different stakeholders in the community, including microscope manufacturers, custodians and users.
 
-.. tip::
-
-   Please Note - If you want to know more about this initiative please contact us at the `Quality Control and Data Management Working Group    <https://www.bioimagingnorthamerica.org/qc-dm-wg/>`_ of `Bioimaging North America <https://www.bioimagingnorthamerica.org/>`_ and the  `Metadata Working Group <https://quarep.org/working-groups/wg-7-metadata>`_ of `QUAREP-LiMi <https://quarep.org/>`_.
-
-
-Features include
-----------------
-* Community driven.
+Features
+--------
+* Community driven
 * Centered on Rigor and Reproducibility
 * Maximize Educational value 
 * Focus on Usability by all biomedical researchers regardless of imaging expertise
 
 
-Index
------
-.. contents::
+Want to get involved
+--------------------
+
+.. tip::
+
+   Please Note - If you want to know more about this initiative please contact us at the `Quality Control and Data Management Working Group    <https://www.bioimagingnorthamerica.org/qc-dm-wg/>`_ of `Bioimaging North America <https://www.bioimagingnorthamerica.org/>`_ and the  `Metadata Working Group <https://quarep.org/working-groups/wg-7-metadata>`_ of `QUAREP-LiMi <https://quarep.org/>`_.
+
