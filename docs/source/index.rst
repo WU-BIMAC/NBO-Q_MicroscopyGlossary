@@ -10,7 +10,7 @@ Welcome to the 4DN-BINA-OME-QUAREP Microscopy Glossary
 
 
 .. toctree::
-    :caption: 4DN-BINA-OME Microscopy Glossary
+    :caption: NBO-Q Microscopy Glossary
     :hidden:
     :maxdepth: 1
 
