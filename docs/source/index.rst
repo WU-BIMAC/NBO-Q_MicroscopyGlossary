@@ -16,8 +16,8 @@ Contents
     :hidden:
     :maxdepth: 1
 
-   about
-   glossary
-   manufacturerspecs
-   instrument
-   help
+    about
+    glossary
+    manufacturerspecs
+    instrument
+    help
