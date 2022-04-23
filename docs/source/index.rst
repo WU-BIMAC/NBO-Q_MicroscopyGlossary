@@ -17,4 +17,6 @@ Contents
 
    about
    glossary
+   manufacturerspecs
+   instrument
    help
